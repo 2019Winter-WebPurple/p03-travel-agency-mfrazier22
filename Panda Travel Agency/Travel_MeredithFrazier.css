@@ -1,0 +1,68 @@
+/*
+* Meredith Frazier
+* April 9, 2019
+* Padua Panda Travel Agency - Project 03
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body properties here */
+
+body {
+
+    width: 99%; 
+    margin: 5;
+    background: aliceblue; /* This is the background color of the entire page. */
+    color: darkcyan; /* This is the text color of the entire page. */
+    font-family: Arial, Helvetica, sans-serif; /* These are the fonts that the web page will have, in order of availability. */
+    font-size: 20px; /* This is the default size of the font.. */
+}
+
+h1{
+    
+   color: deeppink; /* This is the text color of the h1. */ 
+    
+}
+
+h5{
+    
+   color: deeppink; /* This is the text color of the h5. */ 
+    
+}
+
+h2{
+    
+   color: deeppink; /* This is the text color of the h2. */ 
+    
+}
+
+h3{
+    
+   color: deeppink; /* This is the text color of the h3. */ 
+    
+}
+
+h4{
+    
+    color: pink; /* This is the text color of the h4. */ 
+}
+
+#benesse {width: 850px; height: 700px;} /* This is the size of the first (benesse) image. */
+#ando {width: 850px; height: 750px;} /* This is the size of the second (ando) image. */
+#beach {width: 850px; height: 650px;} /* This is the size of the third (beach) image. */
+
+
+
+table {border-collapse: collapse;}  /* This makes the borders one line. */
+
+table {background-color: aliceblue;} /* This is the default background color of the table. */
+
+table, td, th {border: 2px solid grey;} /* This makes the borders of the table grey and 2 pixels wide. */
+
+thead {background-color: paleturquoise;} /* This makes the theads of the table pale turquoise. */
+
+tfoot {background-color: paleturquoise;}  /* This makes the tfoots of the table pale turquoise. */
